@@ -1,4 +1,4 @@
-/*This is DATABASE OF OUR TODO APPKICATION  and Exporting the data*/
+/*This is DATABASE OF OUR TODO APPLICATION  and Exporting the data*/
 
 var StatusENUMS ={
      ACTIVE:'ACTIVE',
