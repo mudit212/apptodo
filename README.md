@@ -20,10 +20,29 @@ The Layout of the page is such that all the todos are divided according to their
 
 Here's what the app should do:
   
-  1.When the user first loads the page, the list of todo items should appear on the page with their specific status.
-  2.When someone clicks the "add todo" button, a new record should be added to the HTML list using default information.  
-  3.When someone clicks a 
+   1. When the user first loads the page, the list of todo items should appear on the page with their specific status.
+   
+   2. When someone clicks the "add todo" button, a new record should be added to the HTML list using default information.  
+   
+   3. When someone clicks a input checkbox in the ACTIVE todo it will be marked as COMPLETE in the databse and will display under             the complete section.
+   
+   4. When someone clicks a checked input checkbox in the COMPLETE todo it will be marked as ACTIVE in the databse and will display           under the active section.
+   
+   5. When someone clicks on the "hide completed itmem" it will hide all the todos under the complete section and similarly, for the           "hide deleted items".
+   
+# Helpful Resources
+   
+  Here are some resources that will make assit you while making this app :
 
+  1. [Twitter Bootstrap](http://getbootstrap.com/docs/4.0/layout/overview/).
+  2. [CSS Basics](https://www.w3schools.com/w3css/).
+  3. [Express -NodeJs](https://expressjs.com/en/guide/routing.html).
+  
+# Screenshot
+
+![alt text](https://github.com/mudit212/apptodo/blob/master/app/Screenshots/localhost-3010-(Galaxy%20S5)%20(1).png "Description goes here")
+   
+ 
 
 
 
