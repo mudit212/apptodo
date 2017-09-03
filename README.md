@@ -14,6 +14,16 @@ Our app should consist of one HTML file (index.html), one stylesheet file (style
 
 # App Layout
 
+The Layout of the page is such that all the todos are divided according to their particular status. Active todos table contains all the todos which are active and similarly like that all the specific todos. Each todo in active status has two buttons one is checkbox to complete a task and one is delete to delete a particular task. A New Add Todo bar to add a todo to the active todo bar.
+
+# Features Built 
+
+Here's what the app should do:
+  
+  1.When the user first loads the page, the list of todo items should appear on the page with their specific status.
+  2.When someone clicks the "add todo" button, a new record should be added to the HTML list using default information.  
+  3.When someone clicks a 
+
 
 
 
