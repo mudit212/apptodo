@@ -29,7 +29,10 @@ Here's what the app should do:
    4. When someone clicks a checked input checkbox in the COMPLETE todo it will be marked as ACTIVE in the databse and will display           under the active section.
    
    5. When someone clicks on the "hide completed item" it will hide all the todos under the complete section and similarly, for the           "hide deleted items".
-   
+# Known Issues
+  
+  While dealing with large number of todos we need database to store so that whenever we change anything to record it will be in the   database.
+  
 # Helpful Resources
    
   Here are some resources that will make assit you while making this app :
